@@ -67,10 +67,10 @@
 
 # 🌐 Languages
 
-* **Italiano:** Native Language
-* **Inglese:** B1
-* **Spagnolo:** A2
-* **Francese:** A2
+* **Italian:** Native Language
+* **English:** B1
+* **Spanish:** A2
+* **French:** A2
 
 # 🔍 Soft Skills
 
