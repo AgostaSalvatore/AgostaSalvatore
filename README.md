@@ -62,7 +62,7 @@
 
 # 🎓 Education & Certifications
 
-* **IT Expert Diploma** (2021)
+* **IT Expert Diploma I.T.I Enrico Fermi Siracusa** (2021)
 * **Full Stack Web Development Bootcamp** - Boolean (Feb 2025 - Oct 2025)
 
 # 🌐 Languages
