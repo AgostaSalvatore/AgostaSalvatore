@@ -7,7 +7,7 @@
 📍 Syracuse, Italy
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/salvatore-agosta-40795b29a">
+  <a href="https://www.linkedin.com/in/salvatore-agosta-08795b38a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://github.com/agostasalvatore">
