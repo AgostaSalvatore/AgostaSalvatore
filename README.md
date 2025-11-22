@@ -63,7 +63,8 @@
 # 🎓 Education & Certifications
 
 * **IT Expert Diploma I.T.I Enrico Fermi Siracusa** (2021)
-* **Full Stack Web Development Bootcamp** - Boolean (Feb 2025 - Oct 2025)
+* **Full Stack Web Development Bootcamp** - Boolean (Feb 2025 - Jul 2025)
+* **Laravel PHP specialization** - Boolean (Jul 2025 - Oct 2025)
 
 # 🌐 Languages
 
