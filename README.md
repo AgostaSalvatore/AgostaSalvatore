@@ -21,8 +21,8 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **FilmSite** | Web app for cataloging and managing a film database. Full Stack project with a focus on Backend (REST API). Authentication currently under development. | Laravel (PHP), React, MySQL, Laravel Breeze/Sanctum, Redux, Axios | <a href="https://github.com/AgostaSalvatore/FilmSite"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"></a> |
-| **Videogame Store** | E-commerce platform for selling video games. Complete with shopping cart management, orders, and administration logic for the product catalog. | Laravel (PHP), React, MySQL, Blade, CSS/SCSS | <a href="https://github.com/AgostaSalvatore/videogame_store"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"></a> |
+| **ClearDent** | Professional website for a dental studio with an integrated contact form: automatic notifications via Telegram Bot and WhatsApp using n8n workflows. | Laravel 13 (PHP), React, Vite, Tailwind CSS, MySQL, n8n | <a href="https://github.com/AgostaSalvatore/ClearDent"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"></a> |
+| **GameVault** | Social platform for managing your personal video game collection. IGDB API integration for game data, reviews system, and user profiles. Sanctum authentication. | Laravel 13 (PHP), React, Vite, MySQL, IGDB API | <a href="https://github.com/AgostaSalvatore/GameVault"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"></a> |
 | **BoolShop** | **Group mini-project.** Simulation of an e-commerce interface for product visualization, with management of navigation and basic cart features. | HTML, CSS/SCSS, JavaScript, Vue.js (if used) | <a href="https://github.com/AgostaSalvatore/boolshop-main"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"></a> |
 
 # 💻 Tech Stack
@@ -69,7 +69,7 @@
 # 🌐 Languages
 
 * **Italian:** Native Language
-* **English:** B1
+* **English:** B2
 * **Spanish:** A2
 * **French:** A2
 
