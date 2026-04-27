@@ -1,8 +1,10 @@
-# 💻 About Me: Backend Focused
+# 🖥️ About Me: Backend Focused
 
-🧑‍💻 **Full Stack Developer** with a passion for modern technologies and intuitive UIs, but **specialized in Backend** and in robust systems architecture.
+🧑‍💻 **Full Stack Developer** with a passion for modern technologies and intuitive UIs, but **specialized in Backend** and robust systems architecture.
 
-🌱 Proficient with frameworks like **Laravel** and **PHP** for the server side, and continuously updating on the frontend (Next.js 15, React 19) for a 360° vision.
+🌱 Proficient with frameworks like **Laravel** and **PHP** for the server side, and continuously updating on the frontend for a 360° vision.
+
+🤖 Passionate about **AI integration** and **workflow automation** — I love building systems that connect services, automate processes, and leverage AI to solve real-world problems.
 
 📍 Syracuse, Italy
 
